@@ -5,9 +5,11 @@
  */
 package pbo2.pkg10117063.latihan58.tambahkurang;
 
-/**
- *
- * @author Deadpool
+/*
+Nama : Cessario Sheva L.P.A
+Kelas: IF-2
+Nim  : 10117063
+Deskripsi Program : Menampilkan penjumlahan x tambah y
  */
 public class PBO210117063Latihan58TambahKurang {
 
